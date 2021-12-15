@@ -1,0 +1,8 @@
+body{
+    background: rgb(150,186,232);
+background: linear-gradient(90deg, rgba(150,186,232,1) 0%, rgba(150,186,232,1) 6%, rgba(222,153,193,1) 94%, rgba(235,147,186,1) 100%);
+}
+#login_div1,#login_div2{
+    background-color: yellow;
+    border-radius: 15px;
+}
